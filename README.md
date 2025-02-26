@@ -2,7 +2,7 @@
 ## Atividade 
 
 
- - Ola! Eu sou **Leonardo Teixeira Cruz**, tenho 16 anos, e sou **morador do estado de São Paulo**, zon leste, Cangaiba. Gosto muito de futebol e jogos no geral.
+ - Ola! Eu sou **Leonardo Teixeira Cruz**, tenho 16 anos, e sou **morador do estado de São Paulo**, zona leste, Cangaiba. Gosto muito de futebol e jogos no geral.
     
 - Atualmente sou estudante. Estou no 2º ano do ensino médio no SESI AE Carvalho, e aluno do **SENAI José Conde de Azevedo** *na área de desenvolvimento de sistemas no ipiranga*.
 
